@@ -1,4 +1,4 @@
-Copyright (c) 2026 Marco Greco. Tutti i diritti riservati.
+Copyright (c) 2025 Marco Greco. Tutti i diritti riservati.
 
 Questo repository viene reso pubblicamente visibile su GitHub esclusivamente a scopo dimostrativo/di portfolio. Non si tratta di software open source e non viene concessa alcuna licenza d'uso.
 
