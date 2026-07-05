@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ambienti virtuali
+venv/
+.venv/
+env/
+
+# Credenziali / segreti
+.env
+*.key
+secrets.json
+
+# Cache Python
+__pycache__/
+*.pyc
