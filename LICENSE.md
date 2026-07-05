@@ -1,17 +1,17 @@
-Copyright (c) 2025 Marco Greco. Tutti i diritti riservati.
+Copyright (c) 2025 Marco Greco. All rights reserved.
 
-Questo repository viene reso pubblicamente visibile su GitHub esclusivamente a scopo dimostrativo/di portfolio. Non si tratta di software open source e non viene concessa alcuna licenza d'uso.
+This repository is made publicly visible on GitHub solely for demonstration/portfolio purposes. This is not open source software and no license to use it is granted.
 
-Salvo diverso accordo scritto con l'autore, a nessuno è concesso il permesso di:
+Unless otherwise agreed in writing with the author, no one is permitted to:
 
-- copiare, riprodurre o clonare il codice o parti di esso;
-- modificare, adattare o creare opere derivate;
-- distribuire, ripubblicare o ridistribuire il codice, in tutto o in parte;
-- utilizzare il codice, in tutto o in parte, per scopi commerciali;
-- utilizzare il codice per addestrare, ottimizzare (fine-tuning) o valutare modelli di intelligenza artificiale.
+- copy, reproduce, or clone the code or parts of it;
+- modify, adapt, or create derivative works;
+- distribute, republish, or redistribute the code, in whole or in part;
+- use the code, in whole or in part, for commercial purposes;
+- use the code to train, fine-tune, or evaluate artificial intelligence models.
 
-È consentita esclusivamente la consultazione del codice a scopo di lettura personale (ad es. per valutare le competenze dell'autore).
+Only viewing the code for personal reading purposes (e.g. to assess the author's skills) is permitted.
 
-QUESTO SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO, ESPRESSE O IMPLICITE. L'AUTORE NON SI ASSUME ALCUNA RESPONSABILITÀ PER DANNI O CONSEGUENZE DERIVANTI DALL'USO O DALLA CONSULTAZIONE DI QUESTO REPOSITORY.
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES OR CONSEQUENCES ARISING FROM THE USE OR CONSULTATION OF THIS REPOSITORY.
 
-Per richieste di licenza, collaborazione o utilizzo autorizzato, contattare l'autore.
+For licensing requests, collaboration, or authorized use, please contact the author.
