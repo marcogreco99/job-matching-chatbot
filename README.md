@@ -37,10 +37,10 @@ The project is built with [CrewAI](https://github.com/crewAIInc/crewAI) followin
 
 ### Tech stack
 
-- [CrewAI](https://github.com/crewAIInc/crewAI) / `crewai_tools` — multi-agent orchestration
+- [CrewAI](https://github.com/crewAIInc/crewAI) / `crewai_tools` - multi-agent orchestration
 - [Qdrant](https://qdrant.tech/) - vector database for job offers
 - [Sentence Transformers](https://www.sbert.net/) - text embeddings
-- [Hugging Face Transformers](https://huggingface.co/docs/transformers) — local LLM model
+- [Hugging Face Transformers](https://huggingface.co/docs/transformers) - local LLM model
 - [Gradio](https://www.gradio.dev/) - chat interface
 - PyPDF2, textstat, scikit-learn, pandas, numpy
 
