@@ -23,11 +23,11 @@ The project is built with [CrewAI](https://github.com/crewAIInc/crewAI) followin
 
 ### Custom tools
 
-- `PDFReadTool` — text extraction from PDF (PyPDF2)
-- `ScoreCVTool` — CV score based on the number of skills
-- `TextReadabilityTool` — readability score (Flesch Reading Ease, via `textstat`)
-- `QdrantSearchTool` — semantic search of job offers on Qdrant
-- `CoherenceTool` — lexical coherence (via LLM) and semantic coherence (via embeddings + cosine similarity) between soft and hard skills
+- `PDFReadTool` - text extraction from PDF (PyPDF2)
+- `ScoreCVTool` - CV score based on the number of skills
+- `TextReadabilityTool` - readability score (Flesch Reading Ease, via `textstat`)
+- `QdrantSearchTool` - semantic search of job offers on Qdrant
+- `CoherenceTool` - lexical coherence (via LLM) and semantic coherence (via embeddings + cosine similarity) between soft and hard skills
 
 ### Models used
 
@@ -38,10 +38,10 @@ The project is built with [CrewAI](https://github.com/crewAIInc/crewAI) followin
 ### Tech stack
 
 - [CrewAI](https://github.com/crewAIInc/crewAI) / `crewai_tools` — multi-agent orchestration
-- [Qdrant](https://qdrant.tech/) — vector database for job offers
-- [Sentence Transformers](https://www.sbert.net/) — text embeddings
+- [Qdrant](https://qdrant.tech/) - vector database for job offers
+- [Sentence Transformers](https://www.sbert.net/) - text embeddings
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers) — local LLM model
-- [Gradio](https://www.gradio.dev/) — chat interface
+- [Gradio](https://www.gradio.dev/) - chat interface
 - PyPDF2, textstat, scikit-learn, pandas, numpy
 
 ## Requirements
